@@ -1,2 +1,2 @@
 # Projetos
-Repositório direcionado à projetos de Análise e Ciência de Dados utilizando Collab
+Repositório direcionado ao case do processo seletivo da Frexco, com a Análise dos Dados utilizando Collab
